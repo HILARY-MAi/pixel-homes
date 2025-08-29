@@ -18,7 +18,7 @@ nav{
     font-weight: bold;
     gap: 90px;
     padding: 40px;
-    justify-content: center;
+    justify-content: end;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: large;
     height: 130px;
@@ -33,14 +33,15 @@ color: bisque;
 
 
 }
-nav a img{
+/* nav a img{
     height: 75px;
     width: 100px;
-    border-radius: 50%;
+    border-radius: 20%;
     object-fit: cover;
-    border: 6px solid bisque;
-    margin-right: 300px;
+    /* border: 6px solid bisque; */
+    /* margin-right: 300px;
     margin-bottom: 30px;
+    padding-bottom:100px;  */
 }
 
 .hero-image2 img{
@@ -279,6 +280,88 @@ h4{
     margin-left: 300px;
     margin-top: 70px;
 }
+.contact{
+   margin-top: 40px;
+}
+
+.fname{
+    margin-left: 190px;
+    height: 40px;
+    width: 600px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    padding-left: 20px;
+
+}
+label{
+   margin-left: 400px;
+   font-size: x-large;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+.subb{
+    margin-left: 890px;
+    height: 40px;
+    width: 90px;
+    background-color: rgb(11, 11, 48);
+    margin-bottom: 70px;
+    color: white;
+    border-radius: 5px;
+
+}
+.conimg{
+    height: 600px;
+    width: 800px;
+
+}
+a img{
+    margin-left: 270px;
+    margin-top: 50px;
+    height: 400px;
+    width: 800px;
+    border-radius: 50px;
+}
+.termss{
+   height: 1300px;
+   max-width: 1500px; 
+   background-color: grey;
+   border-radius: 40px;
+   margin-top: 10px;
+   padding-top: 20px;
+}
+.one{
+    font-size: 1.1rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 1300px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: black;
+}
+.terminology{
+    display: flex;
+    max-width: 600px;
+    margin-bottom: 70px;
+    margin-left: 450px;
+}
+.conditions{
+    background-color: rgb(24, 24, 58);
+    text-decoration: none;
+    height: 4em;
+    width: 26em;
+    border-radius: 20px;
+    color: bisque;
+    padding-top: 20px;
+    padding-left: 140px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 1000;
+}
+
+
+
+
+
+
+
 
     
 
