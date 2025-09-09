@@ -16,11 +16,11 @@ nav{
     font-weight: bold;
     gap: 70px;
     padding: 40px;
-    justify-content: end;
+    justify-content: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: large;
     height: 130px;
-    width: 1345px;
+    width: 1900px;
     position: fixed;
 
     
