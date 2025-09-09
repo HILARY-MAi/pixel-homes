@@ -201,6 +201,8 @@ font-size: xx-large;
    gap: 50px;
    flex-wrap: wrap; 
    justify-content: center;
+   background-color: brown;
+   height: 800px;
 }
 .duplexx{
    text-decoration: none;
@@ -217,6 +219,7 @@ font-size: xx-large;
    margin-bottom: 100px;
    padding-left: 70px;
    padding-top: 100px;
+   border-radius: 30px;
 }
 
 .bungalloww{
@@ -234,6 +237,7 @@ font-size: xx-large;
    margin-bottom: 100px;
    padding-left: 40px;
    padding-top: 100px;
+   border-radius: 30px;
 }
 
 .open-land{
@@ -251,6 +255,7 @@ font-size: xx-large;
    margin-bottom: 100px;
    padding-left: 80px;
    padding-top: 100px;
+   border-radius: 30px;
 }
 
 .aboutus{
